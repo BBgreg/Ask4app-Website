@@ -12,18 +12,18 @@ const AppShowcase = () => {
         "https://quest-media-storage-bucket.s3.us-east-2.amazonaws.com/1752909707111-IMG_2603.jpg",
         "https://quest-media-storage-bucket.s3.us-east-2.amazonaws.com/1752909712876-IMG_2602.jpg"
       ],
-      appUrl: "https://digitfunapp.com",
+      appUrl: "https://digitfun.ask4appco.com",
       icon: "FiPhone"
     },
     {
       id: 1,
       title: "Essential Memories",
-      description: "Essential Memories solves the common frustration of forgetting important dates (like birthdays and anniversaries) when it truly matters. Unlike traditional calendars that merely track,our app transforms passive reminders into active memory mastery. Through engaging flashcards,intelligent spaced repetition,and a daily 'Question of the Day,' users effortlessly memorize and confidently recall every significant date,ensuring they never miss celebrating what's truly essential.",
+      description: "Essential Memories solves the common frustration of forgetting important dates (like birthdays and anniversaries) when it truly matters. Unlike traditional calendars that merely track, our app transforms passive reminders into active memory mastery. Through engaging flashcards and intelligent reminders' users effortlessly memorize and confidently recall every significant date, ensuring they never miss celebrating what's truly essential.",
       images: [
-        "https://quest-media-storage-bucket.s3.us-east-2.amazonaws.com/1752629171188-IMG_2543.jpg",
-        "https://quest-media-storage-bucket.s3.us-east-2.amazonaws.com/1752629176414-IMG_2541.jpg"
+        "https://quest-media-storage-bucket.s3.us-east-2.amazonaws.com/1753074669253-IMG_2608.jpg",
+        "https://quest-media-storage-bucket.s3.us-east-2.amazonaws.com/1753074673836-IMG_2609.jpg"
       ],
-      appUrl: "https://essentialmemoriesapp.com",
+      appUrl: "https://essentialmemories.ask4appco.com",
       icon: "FiCalendar"
     }
   ];
