@@ -5,9 +5,20 @@ import AppCard from './AppCard';
 const AppShowcase = () => {
   const apps = [
     {
+      id: 2,
+      title: "Perfect Poem",
+      description: "Perfect Poem tackles the timeless challenge of creative blocks and the intricate rules of poetic forms. Unlike generic writing tools that offer limited guidance,this app transforms the art of verse creation into an active,enjoyable,and structured experience. Through intuitive controls for poem type,rhyme scheme,and line length,users effortlessly craft unique masterpieces from simple descriptions,ensuring every crucial verse is perfectly composed and beautifully saved.",
+      images: [
+        "https://quest-media-storage-bucket.s3.us-east-2.amazonaws.com/1753478664137-perfectpoem%20web%20photo.jpg",
+        "https://quest-media-storage-bucket.s3.us-east-2.amazonaws.com/1753478671489-Screenshot%202025-07-25%20135318.png"
+      ],
+      appUrl: "https://perfectpoem.ask4appco.com/",
+      icon: "FiCalendar"
+    },
+    {
       id: 0,
       title: "Digit Fun",
-      description: "Digit Fun tackles the modern problem of forgetting essential phone numbers (like family or emergency contacts) when your phone isn't available. Unlike standard contact lists that foster passive reliance, this app transforms vital number recall into an active, enjoyable challenge. Through engaging game modes, users effortlessly train their memory and confidently recall every crucial digit, ensuring they're always prepared and never left stranded.",
+      description: "Digit Fun tackles the modern problem of forgetting essential phone numbers (like family or emergency contacts) when your phone isn't available. Unlike standard contact lists that foster passive reliance,this app transforms vital number recall into an active,enjoyable challenge. Through engaging game modes,users effortlessly train their memory and confidently recall every crucial digit,ensuring they're always prepared and never left stranded.",
       images: [
         "https://quest-media-storage-bucket.s3.us-east-2.amazonaws.com/1752909707111-IMG_2603.jpg",
         "https://quest-media-storage-bucket.s3.us-east-2.amazonaws.com/1752909712876-IMG_2602.jpg"
@@ -18,7 +29,7 @@ const AppShowcase = () => {
     {
       id: 1,
       title: "Essential Memories",
-      description: "Essential Memories solves the common frustration of forgetting important dates (like birthdays and anniversaries) when it truly matters. Unlike traditional calendars that merely track, our app transforms passive reminders into active memory mastery. Through engaging flashcards and intelligent reminders' users effortlessly memorize and confidently recall every significant date, ensuring they never miss celebrating what's truly essential.",
+      description: "Essential Memories solves the common frustration of forgetting important dates (like birthdays and anniversaries) when it truly matters. Unlike traditional calendars that merely track,our app transforms passive reminders into active memory mastery. Through engaging flashcards and intelligent reminders' users effortlessly memorize and confidently recall every significant date,ensuring they never miss celebrating what's truly essential.",
       images: [
         "https://quest-media-storage-bucket.s3.us-east-2.amazonaws.com/1753074669253-IMG_2608.jpg",
         "https://quest-media-storage-bucket.s3.us-east-2.amazonaws.com/1753074673836-IMG_2609.jpg"
